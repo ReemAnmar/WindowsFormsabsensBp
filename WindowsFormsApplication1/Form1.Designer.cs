@@ -1144,7 +1144,7 @@
             this.textBox55.Name = "textBox55";
             this.textBox55.Size = new System.Drawing.Size(373, 31);
             this.textBox55.TabIndex = 6;
-            this.textBox55.Text = "type particpent name......";
+            this.textBox55.Text = "type particpent name........";
             // 
             // Form1
             // 
